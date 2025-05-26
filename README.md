@@ -45,7 +45,7 @@
 **Cloning the Repo**
 
 ```bash
-git clone https://github.com/xautik/Ligma.git
+git clone https://github.com/xautiik/Ligma.git
 cd Ligma
 ```
 
